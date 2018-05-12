@@ -1,0 +1,34 @@
+_repo: Betrachtungen--ber-die-Grundlagen-der-Philosophie_27532
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fischer, Ludwig
+    gutenberg_agent_id: '32752'
+    url: http://www.gutenberg.org/2009/agents/32752
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia: http://en.wikipedia.org/wiki/René_Descartes
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27532'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+title: Betrachtungen über die Grundlagen der Philosophie
+url: http://www.gutenberg.org/ebooks/27532
